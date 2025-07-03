@@ -254,7 +254,7 @@ body.nav-active{overflow: hidden;}
   visibility: hidden;
 }
 .navbar.active{
-  transform: translateX(-300px);
+  transform: translateX(-400px);
   visibility: visible;
   transition: 0.5s var(--cubic-out);
 }
