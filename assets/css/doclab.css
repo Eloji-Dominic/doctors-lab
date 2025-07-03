@@ -184,9 +184,7 @@ body.nav-active{overflow: hidden;}
   background-color: var(--verdigris);
   display: grid;
   place-items: center;
-  z-index: 6;
   transition: var(--transition-1);
-  display: none;
 }
 .preloader.loaded{
   visibility: none;
